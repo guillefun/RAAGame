@@ -1,5 +1,5 @@
 (Done) Bulbasaur - Planta
-Magnemite - Eléctrico
-Voltorb - Normal
-Axew - Dragón
-Swinub - Hielo
+(Done) Magnemite - Eléctrico
+(Done) Voltorb - Eléctrico
+(Done) Axew - Dragón
+(Done) Swinub - Hielo
