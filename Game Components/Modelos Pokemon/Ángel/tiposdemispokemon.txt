@@ -1,0 +1,5 @@
+Dugtrio - Tipo Roca
+Combee - Tipo Bicho
+Gengar - Tipo Fantasma
+Snorlax - Tipo Normal
+Mimikyu - Tipo Fantasma
